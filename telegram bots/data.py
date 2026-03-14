@@ -31,7 +31,6 @@ def get_top_players():
 
 
 def load_players():
-
     """
     Load all players from json file.
 
@@ -39,9 +38,13 @@ def load_players():
         list[Player]: players are becoming objects.
     """
 
-    with open(DATA_FILE, "r", encoding="utf-8") as file:
-        data = json.load(file)
-        return [Player(**player) for player in data]
+    try:
+        with open(DATA_FILE, "r", encoding="utf-8") as file:
+            data = json.load(file)
+    except FileNotFoundError:
+        data = []
+
+    return [Player(**player) for player in data]
 
 
 def find_player_by_name(name: str):
