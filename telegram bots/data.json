@@ -1,0 +1,163 @@
+[
+    {
+        "name": "Vitaliy Mykolenko",
+        "age": 25,
+        "nationality": "Ukraine",
+        "club": "Everton",
+        "matches": 180,
+        "goals": 39,
+        "trophys": [
+            "Ukrainian Premier League 2020/21",
+            "Ukrainian Cup 2019/2020",
+            "Ukrainian Cup 2020/21"
+        ],
+        "photo": "AgACAgIAAxkBAAIDRmmtv_avAztanT9Fk0QqqY0MDtbsAALRE2sbCktxSdUU9iNxnw6wAQADAgADeQADOgQ"
+    },
+    {
+        "name": "Oleksandr Zinchenko",
+        "age": 28,
+        "nationality": "Ukraine",
+        "club": "Ajax",
+        "matches": 350,
+        "goals": 30,
+        "trophys": [
+            "Premier League 2017/18",
+            "Premier League 2018/19",
+            "Premier League 2020/21",
+            "FA Cup 2018/19",
+            "Carabao Cup 2018/19",
+            "Carabao Cup 2019/20",
+            "Carabao Cup 2020/21"
+        ],
+        "photo": "AgACAgIAAxkBAAIDmmmtxcZfKeOo0vVSvp-blgW4nLlkAAIPHmsb-lNoSf_FCax_oIgXAQADAgADeQADOgQ"
+    },
+    {
+        "name": "Erling Haaland",
+        "age": 24,
+        "nationality": "Norway",
+        "club": "Manchester City",
+        "matches": 260,
+        "goals": 220,
+        "trophys": [
+            "Champions League 2022/23",
+            "Premier League 2022/23",
+            "Premier League 2023/24",
+            "FA Cup 2022/23",
+            "UEFA Super Cup 2023"
+        ],
+        "photo": "AgACAgIAAxkBAAIDrGmtxlvODPGqeIeOmBVqtvBUSEtKAAIRHmsb-lNoSU6tkqWbnuVHAQADAgADeQADOgQ"
+    },
+    {
+        "name": "Kylian Mbappe",
+        "age": 26,
+        "nationality": "France",
+        "club": "Real Madrid",
+        "matches": 350,
+        "goals": 280,
+        "trophys": [
+            "World Cup 2018",
+            "Ligue 1 2017/18",
+            "Ligue 1 2018/19",
+            "Ligue 1 2019/20",
+            "Ligue 1 2021/22",
+            "Ligue 1 2022/23"
+        ],
+        "photo": "AgACAgIAAxkBAAIDxGmtx5qL85q1QpHOzYhyhIdFph6wAAIlHmsb-lNoSc9QFbPJBia7AQADAgADeAADOgQ"
+    },
+    {
+        "name": "Cristiano Ronaldo",
+        "age": 39,
+        "nationality": "Portugal",
+        "club": "Al Nassr",
+        "matches": 1200,
+        "goals": 960,
+        "trophys": [
+            "Champions League 2008",
+            "Champions League 2014",
+            "Champions League 2016",
+            "Champions League 2017",
+            "Champions League 2018",
+            "Euro 2016",
+            "Nations League 2019",
+            "Premier League 2007/08",
+            "La Liga 2011/12",
+            "La Liga 2016/17",
+            "Serie A 2018/19",
+            "Serie A 2019/20"
+        ],
+        "photo": "AgACAgIAAxkBAAID8Wmx28Jsq5kSPy4x_CvCM0tpUCpFAALOEmsbO66RSX1hjxqPsyhMAQADAgADeQADOgQ"
+    },
+    {
+        "name": "Kevin De Bruyne",
+        "age": 33,
+        "nationality": "Belgium",
+        "club": "Manchester City",
+        "matches": 650,
+        "goals": 190,
+        "trophys": [
+            "Champions League 2023",
+            "Premier League titles",
+            "Best Playmaker awards"
+        ],
+        "photo": "AgACAgIAAxkBAAIEVGmzLobuCP1X4onh37qZPcY0FZHiAAKGGWsbO66ZSXRGfbe1j6ajAQADAgADeAADOgQ"
+    },
+    {
+        "name": "Jude Bellingham",
+        "age": 21,
+        "nationality": "England",
+        "club": "Real Madrid",
+        "matches": 220,
+        "goals": 60,
+        "trophys": [
+            "Champions League 2024",
+            "La Liga",
+            "Golden Boy"
+        ],
+        "photo": "AgACAgIAAxkBAAIEZmmzL2Tfv6knF-Zr0xkhgnMvokfuAAKLGWsbO66ZSfi-y0S2_0s5AQADAgADeAADOgQ"
+    },
+    {
+        "name": "Lionel Messi",
+        "age": 36,
+        "nationality": "Argentina",
+        "club": "Inter Miami",
+        "matches": 850,
+        "goals": 750,
+        "trophys": [
+            "FIFA World Cup 2022",
+            "Copa America 2021",
+            "Champions League 2006/07",
+            "Champions League 2008/09",
+            "Champions League 2010/11"
+        ],
+        "photo": "AgACAgIAAxkBAAIEymm0f-y0NnNRRtMP2lywBfVyxmfWAALzF2sbi7-pSUtNxo1HwKHFAQADAgADeAADOgQ"
+    },
+    {
+        "name": "Mohamed Salah",
+        "age": 31,
+        "nationality": "Egypt",
+        "club": "Liverpool",
+        "matches": 400,
+        "goals": 230,
+        "trophys": [
+            "Premier League 2019/20",
+            "Champions League 2018/19",
+            "FIFA Club World Cup 2019"
+        ],
+        "photo": "AgACAgIAAxkBAAIE3Wm0gH5jpcj_pIhRvMb07SfgvJK4AAL0F2sbi7-pSV893iJOzsnLAQADAgADeAADOgQ"
+    },
+    {
+        "name": "Karim Benzema",
+        "age": 35,
+        "nationality": "France",
+        "club": "Al - Ittihad",
+        "matches": 650,
+        "goals": 350,
+        "trophys": [
+            "Champions League 2013/14",
+            "Champions League 2015/16",
+            "Champions League 2021/22",
+            "La Liga 2016/17\""
+        ],
+        "photo": "AgACAgIAAxkBAAIE7mm0gNUSxd3ghFazETiylrqL2rUGAAL3F2sbi7-pSR7MatIbRoRUAQADAgADeAADOgQ"
+    }
+]
